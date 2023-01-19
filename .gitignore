@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#Api key - Adding config.py file.
+api_keys.py
+random_numbers.ipynb
+API_practice.ipynb
+
+.idea folder
+.pyc files
+.DS_Store
+.idea/Python-Api.iml
