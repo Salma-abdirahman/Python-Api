@@ -138,3 +138,7 @@ API_practice.ipynb
 .pyc files
 .DS_Store
 .idea/Python-Api.iml
+__pycache__
+config.py
+Untitled.ipynb
+Untitled1.ipynb
